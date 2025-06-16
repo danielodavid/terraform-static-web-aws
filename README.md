@@ -1,4 +1,7 @@
+![CI](https://github.com/danielodavid/terraform-static-web-aws/actions/workflows/deploy.yml/badge.svg)
+
 # terraform-static-web-aws
+
 ## Overview
 This project demonstrates how to use **Terraform** (Infrastructure as Code) to provision infrastructure on **AWS**. It defines an EC2 instance that would serve a static HTML page via Apache, simulating what a basic production workload might look like.
 
